@@ -1,3 +1,6 @@
+//VISA Credit Card Validator (found here: http://www.financetwitter.com/2014/08/cracking-sixteen-digits-credit-card-numbers-what-do-they-mean.html
+//Link to picture: http://www.financetwitter.com/wp-content/uploads/2014/08/Cracking-Credit-Card-Numbers-Checking-Fake-Card-with-Last-Check-Digit.png
+
 #include "stdafx.h"
 #include <iostream>
 #include <vector>
